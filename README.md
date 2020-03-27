@@ -1,1 +1,1 @@
-# snbck.github.io
+## Snbck.github.io is SNBCK's personal website
